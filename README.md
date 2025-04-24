@@ -61,5 +61,6 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/20501A0407/20501A0407/output/snake.svg" alt="Snake Animation" />
+  <img src="https://20501A0407.github.io/20501A0407/snake.svg" alt="Snake Animation" />
 </p>
+
