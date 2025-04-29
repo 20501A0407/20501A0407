@@ -57,7 +57,7 @@
   <i>"Code. Create. Conquer."</i>
 </p>
 
-<!-- Snake Animation -->
+
 <p align="center">
   <img src="https://20501A0407.github.io/20501A0407/snake.svg" alt="Snake Animation" />
 </p>
